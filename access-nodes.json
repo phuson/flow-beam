@@ -1,0 +1,163 @@
+[
+  {
+    "StartHeight": 1065711,
+    "EndHeight": 2033591,
+    "Address": "access-001.candidate4.nodes.onflow.org:9000",
+    "IsLegacy": true
+  },
+  {
+    "StartHeight": 2033592,
+    "EndHeight": 3187930,
+    "Address": "access-001.candidate5.nodes.onflow.org:9000",
+    "IsLegacy": true
+  },
+  {
+    "StartHeight": 3187931,
+    "EndHeight": 4132132,
+    "Address": "access-001.candidate6.nodes.onflow.org:9000",
+    "IsLegacy": true
+  },
+  {
+    "StartHeight": 4132133,
+    "EndHeight": 4972986,
+    "Address": "access-001.candidate7.nodes.onflow.org:9000",
+    "IsLegacy": true
+  },
+  {
+    "StartHeight": 4972987,
+    "EndHeight": 6483245,
+    "Address": "access-001.candidate8.nodes.onflow.org:9000",
+    "IsLegacy": true
+  },
+  {
+    "StartHeight": 6483246,
+    "EndHeight": 7601062,
+    "Address": "access-001.candidate9.nodes.onflow.org:9000",
+    "IsLegacy": true
+  },
+  {
+    "StartHeight": 7601063,
+    "EndHeight": 8742958,
+    "Address": "access-001.mainnet1.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 8742959,
+    "EndHeight": 9737132,
+    "Address": "access-001.mainnet2.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 9737133,
+    "EndHeight": 9992019,
+    "Address": "access-001.mainnet3.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 9992020,
+    "EndHeight": 12020336,
+    "Address": "access-001.mainnet4.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 12020337,
+    "EndHeight": 12609236,
+    "Address": "access-001.mainnet5.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 12609237,
+    "EndHeight": 13404173,
+    "Address": "access-001.mainnet6.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 13404174,
+    "EndHeight": 13950741,
+    "Address": "access-001.mainnet7.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 13950742,
+    "EndHeight": 14892103,
+    "Address": "access-001.mainnet8.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 14892104,
+    "EndHeight": 15791890,
+    "Address": "access-001.mainnet9.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 15791891,
+    "EndHeight": 16755601,
+    "Address": "access-001.mainnet10.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 16755602,
+    "EndHeight": 17544522,
+    "Address": "access-001.mainnet11.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 17544523,
+    "EndHeight": 18587477,
+    "Address": "access-001.mainnet12.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 18587478,
+    "EndHeight": 19050752,
+    "Address": "access-001.mainnet13.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 19050753,
+    "EndHeight": 21291691,
+    "Address": "access-001.mainnet14.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 21291692,
+    "EndHeight": 23830812,
+    "Address": "access-001.mainnet15.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 23830813,
+    "EndHeight": 27341469,
+    "Address": "access-001.mainnet16.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 27341470,
+    "EndHeight": 31735954,
+    "Address": "access-001.mainnet17.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 31735955,
+    "EndHeight": 35858810,
+    "Address": "access-001.mainnet18.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 35858811,
+    "EndHeight": 40171633,
+    "Address": "access-001.mainnet19.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 40171634,
+    "EndHeight": 44950206,
+    "Address": "access-001.mainnet20.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 44950207,
+    "Address": "access-001.mainnet21.nodes.onflow.org:9000",
+    "IsLegacy": false
+  }
+]
