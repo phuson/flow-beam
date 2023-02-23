@@ -157,7 +157,13 @@
   },
   {
     "StartHeight": 44950207,
+    "EndHeight": 47169686,
     "Address": "access-001.mainnet21.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 47169687,
+    "Address": "access.mainnet.nodes.onflow.org:9000",
     "IsLegacy": false
   }
 ]
