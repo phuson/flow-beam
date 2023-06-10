@@ -1,0 +1,169 @@
+[
+  {
+    "StartHeight": 16483518,
+    "EndHeight": 25450389,
+    "Address": "access-001.devnet19.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 25450390,
+    "EndHeight": 26935024,
+    "Address": "access-001.devnet20.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 26935025,
+    "EndHeight": 30171527,
+    "Address": "access-001.devnet21.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 30171528,
+    "EndHeight": 33257097,
+    "Address": "access-001.devnet22.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 33257098,
+    "EndHeight": 36290421,
+    "Address": "access-001.devnet23.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 36290422,
+    "EndHeight": 39272448,
+    "Address": "access-001.devnet24.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 39272449,
+    "EndHeight": 41567026,
+    "Address": "access-001.devnet25.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 41567027,
+    "EndHeight": 45051577,
+    "Address": "access-001.devnet26.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 45051578,
+    "EndHeight": 45889253,
+    "Address": "access-001.devnet27.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 45889254,
+    "EndHeight": 47242825,
+    "Address": "access-001.devnet28.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 47242826,
+    "EndHeight": 47330084,
+    "Address": "access-001.devnet29.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 47330085,
+    "EndHeight": 50540411,
+    "Address": "access-001.devnet30.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 50540412,
+    "EndHeight": 53376276,
+    "Address": "access-001.devnet31.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 53376277,
+    "EndHeight": 59558933,
+    "Address": "access-001.devnet32.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 59558934,
+    "EndHeight": 64904845,
+    "Address": "access-001.devnet33.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 64904846,
+    "EndHeight": 70072574,
+    "Address": "access-001.devnet34.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 70072575,
+    "EndHeight": 74786359,
+    "Address": "access-001.devnet35.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 74786360,
+    "EndHeight": 76159166,
+    "Address": "access-001.devnet36.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 76159167,
+    "EndHeight": 83007729,
+    "Address": "access-001.devnet37.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 83007730,
+    "EndHeight": 90595735,
+    "Address": "access-001.devnet38.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 90595736,
+    "EndHeight": 92473964,
+    "Address": "access-001.devnet39.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 92473965,
+    "EndHeight": 93156993,
+    "Address": "access-001.devnet40.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 93156994,
+    "EndHeight": 99444464,
+    "Address": "access-001.devnet41.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 99444465,
+    "EndHeight": 99452066,
+    "Address": "access-001.devnet42.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 99452067,
+    "EndHeight": 100675450,
+    "Address": "access-001.devnet43.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 100675451,
+    "EndHeight": 105032149,
+    "Address": "access-001.devnet44.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 105032150,
+    "EndHeight": 105155066,
+    "Address": "access-001.devnet45.nodes.onflow.org:9000",
+    "IsLegacy": false
+  },
+  {
+    "StartHeight": 105155067,
+    "Address": "access.devnet.nodes.onflow.org:9000",
+    "IsLegacy": false
+  }
+]
